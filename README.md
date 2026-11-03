@@ -256,7 +256,9 @@ public class MainActivity2 extends AppCompatActivity{
 
 ## OUTPUT
 
+<img width="1920" height="1080" alt="Screenshot 2026-11-03 110817" src="https://github.com/user-attachments/assets/7cd79ada-4f39-4122-89f0-1c4d69f0fbf5" />
 
+<img width="1920" height="1080" alt="Screenshot 2026-11-03 110829" src="https://github.com/user-attachments/assets/f73dad7e-b39d-47d0-ad99-fae4c837ccb8" />
 
 
 ## RESULT
